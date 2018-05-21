@@ -1,0 +1,67 @@
+individuo;idade;tempo_surf;cat_tempo;vezes_semana;horas_dia;total_pratica;cat_pratica;categoria;federado;peso;altura;imc;cat_imc;lesoes_soma;queimadura;doenca_neu;prob_coluna;cirurgia
+1;25;2,6;0 a 5 anos;3;2;811,2;Pouca prática;Recreacional;Não;72;170;24,91;Eutrófico;3;0;Não;Não;Não
+2;34;1;0 a 5 anos;5;1;260;Pouca prática;Recreacional;Não;75;187;21,45;Eutrófico;1;0;Não;Não;Não
+3;21;1;0 a 5 anos;6;2;624;Pouca prática;Recreacional;Não;71;183;21,2;Eutrófico;1;0;Não;Não;Não
+4;27;13;Acima de 10 anos;3;3;6084;Prática intensa;Amador;Não;70;178;22,09;Eutrófico;3;0;Não;Não;Não
+5;24;3;0 a 5 anos;4;2;1248;Pouca prática;Amador;Não;83;183;24,78;Eutrófico;1;1;Não;Não;Não
+6;21;2;0 a 5 anos;3;2;624;Pouca prática;Amador;Não;79;180;24,38;Eutrófico;0;0;Não;Não;Sim
+7;25;3;0 a 5 anos;3;2;936;Pouca prática;Recreacional;Não;63;172;21,3;Eutrófico;0;0;Não;Não;Não
+8;29;16;Acima de 10 anos;4;6;19968;Prática intensa;Amador;Não;76;175;24,82;Eutrófico;2;0;Não;Não;Não
+9;22;7;5 a 10 anos;3;3;3276;Prática moderada;Amador;Não;82;182;24,76;Eutrófico;1;0;Não;Não;Não
+10;24;17;Acima de 10 anos;5;2;8840;Prática intensa;Profissional;Sim;76;176;24,54;Eutrófico;5;1;Não;Não;Não
+11;24;18;Acima de 10 anos;3;2;5616;Prática moderada;Amador;Não;74;188;20,94;Eutrófico;3;1;Não;Não;Não
+12;29;15;Acima de 10 anos;4;2;6240;Prática intensa;Profissional;Sim;80;185;23,37;Eutrófico;3;0;Não;Não;Não
+13;29;6;5 a 10 anos;3;4;3744;Prática moderada;Recreacional;Não;84;168;29,76;Sobrepeso;3;0;Não;Não;Não
+14;20;1;0 a 5 anos;5;3;780;Pouca prática;Recreacional;Não;68;179;18,73;Eutrófico;2;1;Não;Não;Não
+15;24;28;Acima de 10 anos;3;2;8736;Prática intensa;Recreacional;Não;74;174;24,44;Eutrófico;4;1;Não;Não;Não
+16;19;7;5 a 10 anos;7;1;2548;Pouca prática;Recreacional;Não;60;175;19,59;Eutrófico;3;1;Não;Não;Não
+17;20;8;5 a 10 anos;3;2;2496;Pouca prática;Amador;Não;70;170;24,22;Eutrófico;3;1;Não;Não;Não
+18;21;9;5 a 10 anos;5;4;9360;Prática intensa;Recreacional;Não;63;180;19,44;Eutrófico;5;1;Não;Não;Não
+19;33;22;Acima de 10 anos;5;1;5720;Prática moderada;Recreacional;Sim;64;181;19,54;Eutrófico;5;0;Não;Não;Não
+20;36;6;5 a 10 anos;4;2;2496;Pouca prática;Recreacional;Não;75;171;25,6;Sobrepeso;3;0;Não;Não;Não
+21;19;1;0 a 5 anos;1;2;104;Pouca prática;Recreacional;Não;45;161;16,5;Baixo peso;1;0;Não;Não;Não
+22;32;23;Acima de 10 anos;3;4;14352;Prática intensa;Profissional;Sim;78;170;27;Sobrepeso;4;0;Não;Não;Não
+23;31;15;Acima de 10 anos;2;2;3120;Prática moderada;Recreacional;Não;78;184;23;Eutrófico;4;0;Não;Não;Não
+24;32;20;Acima de 10 anos;2;2;4160;Prática moderada;Amador;Não;70;184;20,7;Eutrófico;6;2;Não;Não;Sim
+25;30;3;0 a 5 anos;3;2;936;Pouca prática;Recreacional;Não;104;178;32,8;Obeso;4;2;Não;Não;Não
+26;20;3;0 a 5 anos;5;3;2340;Pouca prática;Recreacional;Não;58;178;18,3;Baixo peso;4;2;Não;Não;Não
+27;24;0,6;0 a 5 anos;2;2;124,8;Pouca prática;Recreacional;Não;78;186;22,5;Eutrófico;2;1;Sim;Não;Não
+28;23;1,6;0 a 5 anos;3;2;499,2;Pouca prática;Recreacional;Não;70;172;23,7;Eutrófico;1;0;Não;Não;Não
+29;22;2;0 a 5 anos;1;3;312;Pouca prática;Recreacional;Não;63;170;21,8;Eutrófico;0;0;Não;Não;Não
+30;18;0,6;0 a 5 anos;4;3;374,4;Pouca prática;Recreacional;Não;63;165;23,1;Eutrófico;3;1;Não;Não;Não
+31;19;0,6;0 a 5 anos;4;1;124,8;Pouca prática;Recreacional;Não;55;172;18,6;Baixo peso;2;0;Não;Não;Sim
+32;27;0,5;0 a 5 anos;2;1;52;Pouca prática;Recreacional;Não;82;193;22;Eutrófico;2;0;Não;Não;Sim
+33;28;21;Acima de 10 anos;7;4;30576;Prática intensa;Profissional;Sim;74;168;26,2;Sobrepeso;2;0;Não;Não;Não
+34;26;12;Acima de 10 anos;3;2;3744;Prática moderada;Amador;Sim;60;164;22,3;Eutrófico;5;1;Não;Não;Não
+35;37;25;Acima de 10 anos;4;2;10400;Prática intensa;Recreacional;Não;60;163;22,6;Eutrófico;2;1;Não;Não;Não
+36;34;19;Acima de 10 anos;5;2;9880;Prática intensa;Profissional;Sim;84;181;25,6;Sobrepeso;5;1;Não;Não;Não
+37;39;30;Acima de 10 anos;7;4;43680;Prática intensa;Recreacional;Sim;72;168;25,5;Sobrepeso;5;1;Não;Não;Não
+38;32;23;Acima de 10 anos;3;2;7176;Prática intensa;Recreacional;Não;85;171;29,1;Sobrepeso;4;1;Não;Não;Sim
+39;33;20;Acima de 10 anos;3;2;6240;Prática intensa;Amador;Sim;79;170;27,3;Sobrepeso;5;1;Não;Não;Sim
+40;18;1;0 a 5 anos;5;3;780;Pouca prática;Recreacional;Não;70;170;24,2;Eutrófico;1;0;Não;Não;Não
+41;18;9;5 a 10 anos;2;5;4680;Prática moderada;Amador;Sim;68;166;24,7;Eutrófico;1;0;Não;Não;Não
+42;21;12;Acima de 10 anos;2;5;6240;Prática intensa;Amador;Não;58;166;21;Eutrófico;4;1;Não;Não;Não
+43;24;2;0 a 5 anos;7;2;1456;Pouca prática;Amador;Não;54;160;21,6;Eutrófico;1;0;Não;Não;Não
+44;36;25;Acima de 10 anos;3;2;7800;Prática intensa;Profissional;Sim;65;174;23,8;Eutrófico;2;0;Não;Não;Não
+45;26;8;5 a 10 anos;3;2;2496;Pouca prática;Amador;Sim;55;165;20,2;Eutrófico;7;2;Não;Não;Não
+46;34;16;Acima de 10 anos;2;4;6656;Prática intensa;Amador;Sim;68;171;23,3;Eutrófico;3;0;Não;Não;Não
+47;21;12;Acima de 10 anos;6;1;3744;Prática moderada;Recreacional;Não;64;166;23,2;Eutrófico;4;1;Sim;Não;Sim
+48;31;18;Acima de 10 anos;3;3;8424;Prática intensa;Recreacional;Não;68;178;21,5;Eutrófico;1;0;Não;Não;Sim
+49;35;5;5 a 10 anos;3;1;780;Pouca prática;Recreacional;Não;50;154;21,1;Eutrófico;1;0;Não;Não;Não
+50;28;2,5;0 a 5 anos;1;6;780;Pouca prática;Recreacional;Sim;52;159;20,6;Eutrófico;3;0;Não;Não;Não
+51;23;0,6;0 a 5 anos;2;2;124,8;Pouca prática;Recreacional;Não;80;170;27,7;Sobrepeso;4;0;Não;Não;Sim
+52;21;10;Acima de 10 anos;7;2;7280;Prática intensa;Profissional;Sim;64;172;21,6;Eutrófico;4;0;Não;Não;Não
+53;34;15;Acima de 10 anos;2;6;9360;Prática intensa;Recreacional;Sim;82;175;26,8;Sobrepeso;2;0;Não;Não;Não
+54;21;9;5 a 10 anos;2;3;2808;Pouca prática;Recreacional;Não;65;173;21,7;Eutrófico;4;1;Não;Não;Não
+55;21;9;5 a 10 anos;6;4;11232;Prática intensa;Recreacional;Não;62;175;20,24;Eutrófico;3;1;Não;Não;Não
+56;24;8;5 a 10 anos;3;2;2496;Pouca prática;Recreacional;Não;82;169;28,71;Sobrepeso;0;0;Não;Não;Não
+57;18;5;5 a 10 anos;7;2;3640;Prática moderada;Recreacional;Não;60;175;19,59;Baixo peso;0;0;Não;Não;Não
+58;27;4;0 a 5 anos;2;1;416;Pouca prática;Recreacional;Não;60;160;23,44;Eutrófico;0;0;Não;Não;Não
+59;24;9;5 a 10 anos;2;3;2808;Pouca prática;Recreacional;Não;54;159;21,36;Eutrófico;2;0;Não;Não;Não
+60;29;2;0 a 5 anos;3;1;312;Pouca prática;Recreacional;Não;86;172;29,07;Sobrepeso;3;0;Não;Não;Não
+61;26;12;Acima de 10 anos;3;1;1872;Pouca prática;Recreacional;Não;67;178;21,15;Eutrófico;1;0;Não;Não;Não
+62;24;12;Acima de 10 anos;2;2;2496;Pouca prática;Profissional;Sim;65;168;23,03;Eutrófico;8;1;Não;Não;Sim
+63;25;12;Acima de 10 anos;4;2;4992;Prática moderada;Recreacional;Não;52;161;20,06;Eutrófico;3;1;Não;Não;Não
+64;28;7;5 a 10 anos;2;1;728;Pouca prática;Recreacional;Não;75;170;24,49;Eutrófico;0;0;Não;Não;Não
+65;42;26;Acima de 10 anos;1;2;2704;Pouca prática;Recreacional;Não;88;172;29,75;Sobrepeso;6;2;Sim;Não;Sim
+66;19;10;Acima de 10 anos;4;2;4160;Prática moderada;Recreacional;Não;59;162;22,48;Eutrófico;1;0;Não;Não;Não
