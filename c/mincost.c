@@ -9,11 +9,14 @@ int cost[N][N] = { {0,10,75,94},
                    {-1,-1,-1,0} };
 
 int minCost(int origin, int dest) {
-   if (origin == dest || (origin + 1) == dest)
+ 
+  if (origin == dest || (origin + 1) == dest)
       return cost[origin][dest];
-
-   for (int i=origin;i<N-1;i++) {
-      minCost(origin,i);
+   
+   int min = minCost(origin, dest);
+   
+   for (int i=origin+1;i<dest;i++) {
+      if ()
    }
 }
 
