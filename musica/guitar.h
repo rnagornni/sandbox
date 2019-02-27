@@ -12,6 +12,7 @@ class Guitar
     std::string backWood;
     std::string topWood;
   public:
+    Guitar() = default;
     Guitar(std::string serial, double price, std::string builder, std::string model, std::string type, std::string backw, std::string topw)
     {
       SerialNumber = serial;

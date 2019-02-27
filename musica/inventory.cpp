@@ -15,15 +15,15 @@ Guitar Inventory::getGuitar(std::string serial)
 {
   for(const auto &gt : m_guitars)
   {
-   // if(gt.getSerialNumber() == serial)
-     // return gt;
+    if(gt.getSerialNumber() == serial)
+      return gt;
   }
-  return nullptr;
+  return Guitar();
 }
 
 Guitar Inventory::ssearch(Guitar guitar)
 {
-  for(auto guitar: m_guitars)
+  for(const auto &g: m_guitars)
   {
     if(guitar == g)
      return g;
