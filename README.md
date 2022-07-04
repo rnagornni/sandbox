@@ -1,7 +1,7 @@
 A placeholder for POCs
 
-pngchunks
-BigInteger
-narniacoin
-raytracing
-algo
+- pngchunks
+- BigInteger
+- narniacoin
+- raytracing
+- algo
